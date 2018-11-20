@@ -1,0 +1,8 @@
+trush/
+.ipynb_checkpoints/
+.DS_Store
+*xls
+*csv
+*png
+*md
+*pdf
